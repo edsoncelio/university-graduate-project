@@ -9,9 +9,12 @@ O trabalho busca apresentar ferramentas *opensources* *self-hosted* (auto-hosped
 
 As ferramentas analisadas são o [*OwnCloud*](https://doc.owncloud.org/) e [*NextCloud*](https://nextcloud.com/).
 
+# Referências
+* [*Cloud computing: state-of-the-art and research challenges* Qi ZhangLu, Cheng, Raouf Boutaba](https://rdcu.be/bbrvv)
+
 # Resultados
 * Imagem (*Docker*) pré-configurada do *OwnCloud* para *Raspberry Pi* no [*Docker Hub*](https://hub.docker.com/) e o *Dockerfile* neste repositório.
 * Como contribuição para o projeto *OwnCloud* foi desenvolvida uma aplicação cliente que tem por objetivo usar o serviço de nuvem como *backup*.
 
 # Licença
-Este trabalho está licenciado sob a licença [GNU General Public License v3.0](https://github.com/edsoncelio/university-graduate-project/blob/master/LICENSE)
+Este trabalho está licenciado sob a [GNU General Public License v3.0](https://github.com/edsoncelio/university-graduate-project/blob/master/LICENSE)
