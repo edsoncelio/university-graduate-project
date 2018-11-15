@@ -1,5 +1,5 @@
 # Projeto de Conclusão de Curso
-Informações, scripts e material para o Trabalho de Conclusão de Curso - Engenharia da Computação
+Informações, scripts e material para o Trabalho de Conclusão de Curso - Engenharia da Computação pela Universidade Federal do Ceará (UFC)
 
 # Título do Trabalho
 Estudo de Viabilidade de Sistemas de Nuvens Computacionais Auto-Hospedáveis
